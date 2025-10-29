@@ -9,7 +9,7 @@ This tool automates the process of:
 ## 6. Main README (`README.md`)
 
 ```markdown
-# Wi-Fi Network Assessment Tool
+# **Wi-Fi Network Assessment Tool**
 
 A Python-based automation tool for conducting authorized Wi-Fi security assessments using the aircrack-ng suite.
 
