@@ -1,0 +1,14 @@
+# Wi-Fi Assessment Tool Requirements
+# These are system packages that should be installed via apt
+# The core functionality depends on the aircrack-ng suite
+
+# System packages needed (install with apt):
+# aircrack-ng
+# python3 (3.6+)
+
+# Optional packages for extended functionality:
+# hashcat (for GPU acceleration)
+# pyrit (deprecated but sometimes useful)
+# cowpatty (WPA/WPA2 dictionary attacks)
+
+# Note: Most tools are part of the Linux system rather than pip packages
