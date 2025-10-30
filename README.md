@@ -35,8 +35,8 @@ Unauthorized access to computer networks is illegal and unethical. You must only
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wifi-assessment-tool.git
-cd wifi-assessment-tool/scripts/
+git clone https://github.com/nishk28/wifi-password-hack.git
+cd wifi-password-hack/scripts/
 
 # Run the installation script
 sudo ./install.sh
@@ -176,8 +176,8 @@ We welcome contributions! Please follow these steps:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/wifi-assessment-tool.git
-cd wifi-assessment-tool
+git clone https://github.com/nishk28/wifi-password-hack.git
+cd wifi-password-hack
 
 # Create virtual environment (optional)
 python3 -m venv venv
@@ -189,9 +189,9 @@ pip install -r requirements-dev.txt
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/wifi-assessment-tool/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/wifi-assessment-tool/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/wifi-assessment-tool/discussions)
+- **Issues**: [GitHub Issues](https://github.com/nishk28/wifi-password-hack/issues)
+- **Documentation**: [Wiki](https://github.com/nishk28/wifi-password-hack/wiki)
+- **Discussions**: [GitHub Discussions](https://github.com/nishk28/wifi-password-hack/discussions)
 
 ## Limitations
 
